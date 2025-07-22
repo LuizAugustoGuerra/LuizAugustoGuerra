@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖Computer Science student at PUCRS<br>🦾Fourth semester<br>👨🏻‍💻Open to internship opportunities in tech</p>
+<p align="left">🤖Computer Science student at PUCRS<br>🦾Fourth semester<br>👨🏻‍💻Open to internship opportunities in tech<br>⌨️https://leetcode.com/u/luizaugustoguerra/</p>
 
 ###
 
