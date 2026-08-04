@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖Computer Science student at PUCRS<br>🦾Fourth semester<br>⌨️https://leetcode.com/u/luizaugustoguerra/</p>
+<p align="left">🤖Computer Science student at PUCRS<br>🦾sixth semester<br>⌨️https://leetcode.com/u/luizaugustoguerra/</p>
 
 ###
 
